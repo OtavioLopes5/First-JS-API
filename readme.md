@@ -1,4 +1,4 @@
-# Essa é minha primeira API
+# Essa é minha primeira API 😀
 
 Com base em videos tutoriais na internet, desenvolvi minha primeira API 
 
